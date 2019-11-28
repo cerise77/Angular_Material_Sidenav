@@ -1,0 +1,318 @@
+{
+  "Company Sizes":
+    [{
+      "number": 1,
+      "form": 0,
+      "hashKey": 1,
+      "key": "2019-02-27 19:13:12",
+      "keyOne": "2019-02-27 20:32:41",
+      "keyTwo": "2019-02-27 20:32:41",
+      "keyThree": 1111,
+      "keyFour": 4,
+      "keyFive": 1
+    },{
+      "number": 2,
+      "form": 1,
+      "hashKey": 5,
+      "key": "2019-02-27 19:13:12",
+      "keyOne": "2019-02-27 20:32:41",
+      "keyTwo": "2019-02-27 20:32:41",
+      "keyThree": 555,
+      "keyFour": 67,
+      "keyFive": 34
+    },{
+      "number": 3,
+      "form": 145,
+      "hashKey": 52,
+      "key": "2019-02-27 20:32:41",
+      "keyOne": "2019-02-27 20:32:41",
+      "keyTwo": "2019-02-27 20:32:41",
+      "keyThree": 2378,
+      "keyFour": 7856,
+      "keyFive": 88
+    },{
+      "number": 4,
+      "form": 9,
+      "hashKey": 5234,
+      "key": "2019-02-27 19:13:12",
+      "keyOne": "2019-02-27 19:13:12",
+      "keyTwo": "2019-02-27 19:13:12",
+      "keyThree": 94,
+      "keyFour": 45686,
+      "keyFive": 8
+    },{
+      "number": 5,
+      "form": 55,
+      "hashKey": 111,
+      "key": "2019-02-27 19:13:12",
+      "keyOne": "2019-02-27 19:13:12",
+      "keyTwo": "2019-02-27 19:13:12",
+      "keyThree": 345678,
+      "keyFour": 23,
+      "keyFive": 45
+    },{
+      "number": 6,
+      "form": 888,
+      "hashKey": 303,
+      "key": "2019-02-27 19:13:12",
+      "keyOne": "2019-02-27 19:13:12",
+      "keyTwo": "2019-02-27 19:13:12",
+      "keyThree": 1111,
+      "keyFour": 4567,
+      "keyFive": 3
+    }],
+    "Industries":
+      [{
+        "number": 1,
+        "form": 333,
+        "hashKey": 52,
+        "key": "2019-02-27 20:32:41",
+        "keyOne": "2019-02-27 20:32:41",
+        "keyTwo": "2019-02-27 20:32:41",
+        "keyThree": 2378,
+        "keyFour": 7856,
+        "keyFive": 88
+      },{
+        "number": 2,
+        "form": 8767,
+        "hashKey": 5234,
+        "key": "2019-02-27 19:13:12",
+        "keyOne": "2019-02-27 19:13:12",
+        "keyTwo": "2019-02-27 19:13:12",
+        "keyThree": 94,
+        "keyFour": 444,
+        "keyFive": 8
+      },{
+        "number": 3,
+        "form": 123,
+        "hashKey": 678,
+        "key": "2019-02-27 19:13:12",
+        "keyOne": "2019-02-27 19:13:12",
+        "keyTwo": "2019-02-27 19:13:12",
+        "keyThree": 1111,
+        "keyFour": 345,
+        "keyFive": 3
+      }],
+      "Intangibles":
+        [{
+          "number": 1,
+          "form": 333,
+          "hashKey": 52,
+          "key": "2019-02-27 20:32:41",
+          "keyOne": "2019-02-27 20:32:41",
+          "keyTwo": "2019-02-27 20:32:41",
+          "keyThree": 2378,
+          "keyFour": 7856,
+          "keyFive": 88
+        }],
+        "Platform Types":
+          [{
+            "number": 1,
+            "form": 0,
+            "hashKey": 1,
+            "Key": "2019-02-27 19:13:12",
+            "KeyOne": "2019-02-27 20:32:41",
+            "KeyTwo": "2019-02-27 20:32:41",
+            "KeyThree": 1111,
+            "KeyFour": 4,
+            "KeyFive": 1
+          },{
+            "number": 2,
+            "form": 1,
+            "hashKey": 5,
+            "Key": "2019-02-27 19:13:12",
+            "KeyOne": "2019-02-27 20:32:41",
+            "KeyTwo": "2019-02-27 20:32:41",
+            "KeyThree": 555,
+            "KeyFour": 67,
+            "KeyFive": 34
+          },{
+            "number": 3,
+            "form": 145,
+            "hashKey": 52,
+            "Key": "2019-02-27 20:32:41",
+            "KeyOne": "2019-02-27 20:32:41",
+            "KeyTwo": "2019-02-27 20:32:41",
+            "KeyThree": 2378,
+            "KeyFour": 7856,
+            "KeyFive": 88
+          },{
+            "number": 4,
+            "form": 9,
+            "hashKey": 5234,
+            "Key": "2019-02-27 19:13:12",
+            "KeyOne": "2019-02-27 19:13:12",
+            "KeyTwo": "2019-02-27 19:13:12",
+            "KeyThree": 94,
+            "KeyFour": 45686,
+            "KeyFive": 8
+          },{
+            "number": 5,
+            "form": 55,
+            "hashKey": 111,
+            "Key": "2019-02-27 19:13:12",
+            "KeyOne": "2019-02-27 19:13:12",
+            "KeyTwo": "2019-02-27 19:13:12",
+            "KeyThree": 345678,
+            "KeyFour": 23,
+            "KeyFive": 45
+          },{
+            "number": 6,
+            "form": 888,
+            "hashKey": 303,
+            "Key": "2019-02-27 19:13:12",
+            "KeyOne": "2019-02-27 19:13:12",
+            "KeyTwo": "2019-02-27 19:13:12",
+            "KeyThree": 1111,
+            "KeyFour": 4567,
+            "KeyFive": 3
+          }],
+          "Sports":
+            [{
+              "number": 1,
+              "form": 145,
+              "hashKey": 52,
+              "Key": "2019-02-27 20:32:41",
+              "KeyOne": "2019-02-27 20:32:41",
+              "KeyTwo": "2019-02-27 20:32:41",
+              "KeyThree": 2378,
+              "KeyFour": 7856,
+              "KeyFive": 88
+            },{
+              "number": 2,
+              "form": 9,
+              "hashKey": 5234,
+              "Key": "2019-02-27 19:13:12",
+              "KeyOne": "2019-02-27 19:13:12",
+              "KeyTwo": "2019-02-27 19:13:12",
+              "KeyThree": 94,
+              "KeyFour": 45686,
+              "KeyFive": 8
+            },{
+              "number": 3,
+              "form": 55,
+              "hashKey": 111,
+              "Key": "2019-02-27 19:13:12",
+              "KeyOne": "2019-02-27 19:13:12",
+              "KeyTwo": "2019-02-27 19:13:12",
+              "KeyThree": 345678,
+              "KeyFour": 23,
+              "KeyFive": 45
+            },{
+              "number": 4,
+              "form": 888,
+              "hashKey": 303,
+              "Key": "2019-02-27 19:13:12",
+              "KeyOne": "2019-02-27 19:13:12",
+              "KeyTwo": "2019-02-27 19:13:12",
+              "KeyThree": 1111,
+              "KeyFour": 4567,
+              "KeyFive": 3
+            }],
+            "TangibleCategories":
+              [{
+                "number": 1,
+                "form": 0,
+                "hashKey": 1,
+                "Key": "2019-02-27 19:13:12",
+                "KeyOne": "2019-02-27 20:32:41",
+                "KeyTwo": "2019-02-27 20:32:41",
+                "KeyThree": 1111,
+                "KeyFour": 4,
+                "KeyFive": 1
+              },{
+                "number": 2,
+                "form": 1,
+                "hashKey": 5,
+                "Key": "2019-02-27 19:13:12",
+                "KeyOne": "2019-02-27 20:32:41",
+                "KeyTwo": "2019-02-27 20:32:41",
+                "KeyThree": 555,
+                "KeyFour": 67,
+                "KeyFive": 34
+              },{
+                "number": 3,
+                "form": 55,
+                "hashKey": 111,
+                "Key": "2019-02-27 19:13:12",
+                "KeyOne": "2019-02-27 19:13:12",
+                "KeyTwo": "2019-02-27 19:13:12",
+                "KeyThree": 345678,
+                "KeyFour": 23,
+                "KeyFive": 45
+              }],
+              "TangibleImpacts":
+                [{
+                  "number": 1,
+                  "form": 0,
+                  "hashKey": 1,
+                  "Key": "2019-02-27 19:13:12",
+                  "KeyOne": "2019-02-27 20:32:41",
+                  "KeyTwo": "2019-02-27 20:32:41",
+                  "KeyThree": 1111,
+                  "KeyFour": 4,
+                  "KeyFive": 1
+                },{
+                  "number": 2,
+                  "form": 1,
+                  "hashKey": 5,
+                  "Key": "2019-02-27 19:13:12",
+                  "KeyOne": "2019-02-27 20:32:41",
+                  "KeyTwo": "2019-02-27 20:32:41",
+                  "KeyThree": 555,
+                  "KeyFour": 67,
+                  "KeyFive": 34
+                },{
+                  "number": 3,
+                  "form": 145,
+                  "hashKey": 52,
+                  "Key": "2019-02-27 20:32:41",
+                  "KeyOne": "2019-02-27 20:32:41",
+                  "KeyTwo": "2019-02-27 20:32:41",
+                  "KeyThree": 2378,
+                  "KeyFour": 7856,
+                  "KeyFive": 88
+                },{
+                  "number": 4,
+                  "form": 9,
+                  "hashKey": 5234,
+                  "Key": "2019-02-27 19:13:12",
+                  "KeyOne": "2019-02-27 19:13:12",
+                  "KeyTwo": "2019-02-27 19:13:12",
+                  "KeyThree": 94,
+                  "KeyFour": 45686,
+                  "KeyFive": 8
+                },{
+                  "number": 5,
+                  "form": 55,
+                  "hashKey": 111,
+                  "Key": "2019-02-27 19:13:12",
+                  "KeyOne": "2019-02-27 19:13:12",
+                  "KeyTwo": "2019-02-27 19:13:12",
+                  "KeyThree": 345678,
+                  "KeyFour": 23,
+                  "KeyFive": 45
+                },{
+                  "number": 6,
+                  "form": 888,
+                  "hashKey": 303,
+                  "Key": "2019-02-27 19:13:12",
+                  "KeyOne": "2019-02-27 19:13:12",
+                  "KeyTwo": "2019-02-27 19:13:12",
+                  "KeyThree": 1111,
+                  "KeyFour": 4567,
+                  "KeyFive": 3
+                }],
+                "Platforms":
+                  [{
+                    "number": 6,
+                    "form": 888,
+                    "hashKey": 303,
+                    "Key": "2019-02-27 19:13:12",
+                    "KeyOne": "2019-02-27 19:13:12",
+                    "KeyTwo": "2019-02-27 19:13:12",
+                    "KeyThree": 1111,
+                    "KeyFour": 4567,
+                    "KeyFive": 3
+                  }]
+}
